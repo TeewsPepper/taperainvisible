@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    max-width: auto;
+    min-height: auto;
+    font-size: clamp(1.2rem, 10vw, 8rem);
+    text-wrap: wrap;
+    
+
+    p {
+        color: #2e8b57;
+        opacity: .7;
+    }
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Rokkitt:wght@100..900&family=Oswald:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Oswald:wght@200..700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './content';
+@import './header';
+
+.backbody {
+    background-color: rgb(235, 227, 209);
+}
+
+.pal1 {
+    background-color: #2e8b57;
+}
+.pal2 {
+    color: #4682b4;
+}
+.pal3 {
+    color: #044;
+} 
+
+.colornavtext {
+    color: #efefef;
+}
+
